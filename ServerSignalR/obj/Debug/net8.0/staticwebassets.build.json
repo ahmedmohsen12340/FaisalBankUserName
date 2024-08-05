@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "znk/TP0QlrzsfbuZPehmVpzccYNjCrAOqNV0nN+2UfI=",
+  "Source": "ServerSignalR",
+  "BasePath": "_content/ServerSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

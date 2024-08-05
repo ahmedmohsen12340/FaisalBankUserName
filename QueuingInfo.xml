@@ -1,0 +1,58 @@
+<QueuingInfo>
+    <WindowInfo>
+        <WindowName>Counter 1</WindowName>
+        <WindowNumber>1</WindowNumber>
+        <SlipNumber>C-100</SlipNumber>
+        <CallTime>09/07/2024 18:01:34</CallTime>
+        <IsOpened>True</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 2</WindowName>
+        <WindowNumber>2</WindowNumber>
+        <SlipNumber>C-2</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 3</WindowName>
+        <WindowNumber>3</WindowNumber>
+        <SlipNumber>C-301</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 4</WindowName>
+        <WindowNumber>4</WindowNumber>
+        <SlipNumber>C-32</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 5</WindowName>
+        <WindowNumber>5</WindowNumber>
+        <SlipNumber>C-30</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 6</WindowName>
+        <WindowNumber>6</WindowNumber>
+        <SlipNumber>C-30</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 7</WindowName>
+        <WindowNumber>7</WindowNumber>
+        <SlipNumber>C-307</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+    <WindowInfo>
+        <WindowName>Counter 8</WindowName>
+        <WindowNumber>8</WindowNumber>
+        <SlipNumber>C-52</SlipNumber>
+        <CallTime />
+        <IsOpened>False</IsOpened>
+    </WindowInfo>
+</QueuingInfo>
